@@ -5,8 +5,11 @@ Final optmial range of technical indicators for maximizing P&amp;L
 **Solution:**
 
 **Indicator	Min. Value	  Max. Value**
+
 RSI 		    58.02 		    89.72
+
 ATR_perc	  0.274223035   0.427709112
+
 ROC		      -77.72927145  2633.788326
 
 Final P&L if we take entry only when given technical indicators were within above range: Rs. 65773
