@@ -1,5 +1,6 @@
 # trade_data_analysis
 Final optmial range of technical indicators for maximizing P&amp;L
+
 **Objective:** I was given a dataset (570 rows × 6 columns) containing historical trade details such as entry price, exit price, p&l and some technical indicators like atr_perc, roc and rsi. Objective was to analyze dataset in python and  try to find best range of atr_perc , roc , rsi  so that the sum of P&L is maximized for the range of values for atr_perc , roc , rsi.
 
 **Solution:**
